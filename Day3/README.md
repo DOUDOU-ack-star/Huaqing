@@ -1,5 +1,5 @@
-#激活函数以及数据集的训练
-##激活函数
+# 激活函数以及数据集的训练
+## 激活函数
 常见激活函数的优缺点
 https://blog.csdn.net/JiangKangbo/article/details/146567332
 ```python
@@ -52,7 +52,7 @@ print(output)
 ```
 尝试使用resnet，Googlenet，mobileNet，moganet 等不同模型跑图片分类
 尝试使用GPU训练网络模型
-##训练自己的数据集
+## 训练自己的数据集
 数据集预处理，新建工程项目
 deal_with_datasets.py
 ```python
