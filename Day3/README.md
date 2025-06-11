@@ -130,4 +130,6 @@ def create_txt_file(root_dir, txt_filename):
 create_txt_file(r'D:\Desktop\tcl\dataset\image2\train', 'train.txt')
 create_txt_file(r'D:\Desktop\tcl\dataset\image2\val', "val.txt")
 ```
+最后结果展示
+
 ![Alt text](README_REPORT/1.png)
